@@ -1,0 +1,81 @@
+{
+  "title": "Awesome Kotlin",
+  "header": "# Awesome Kotlin\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
+  "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-kotlin/graphs/contributors); you rock!!",
+  "categories": [{
+    "title": "Guides",
+    "id": "guides",
+    "description": "A collection of interesting Kotlin guides."
+  },{
+    "title": "Community",
+    "id": "community",
+    "description": "Community where talk about Kotlin and share informations."
+  },{
+    "title": "Newsletter",
+    "id": "newsletter",
+    "description": "Newsletter about Kotlin."
+  },{
+    "title": "Podcast",
+    "id": "podcast",
+    "description": "Podcast about Kotlin."
+  }],
+  "projects": [ {
+      "title": "Official Kotlin",
+      "category": "guides",
+      "description": "The official Kotlin website with plenty resources to learn this language.",
+      "homepage": "http://kotlinlang.org",
+      "tags": ["kotlin", "guide", "REPL"]
+    },
+    {
+      "title": "Kotlin on Reddit",
+      "category": "community",
+      "description": "The official Kotlin Reddit channel.",
+      "homepage": "https://www.reddit.com/r/Kotlin/",
+      "tags": ["kotlin", "community"]
+    },
+    {
+      "title": "Kotlin on Linkedin",
+      "category": "community",
+      "description": "The official Kotlin LinkedIn channel.",
+      "homepage": "https://www.linkedin.com/groups/7417237",
+      "tags": ["kotlin", "community"]
+    },
+    {
+      "title": "Kotlin Forum",
+      "category": "community",
+      "description": "The official Kotlin Forum.",
+      "homepage": "https://discuss.kotlinlang.org",
+      "tags": ["kotlin", "community", "forum"]
+    },
+    {
+      "title": "Kotlin Guide",
+      "category": "guides",
+      "description": "An interesting guide to approach Kotlin by Thorsten Schleinzer.",
+      "homepage": "https://kotlin.guide",
+      "tags": ["kotlin", "guide", "REPL"]
+    },
+    {
+      "title": "Kotlin Weekly",
+      "category": "newsletter",
+      "description": "A curated weekly newsletter about the best of Kotlin around the net.",
+      "homepage": "http://www.kotlinweekly.net",
+      "tags": ["kotlin", "newsletter"]
+    },{
+      "title": "Kotlin Daily",
+      "category": "newsletter",
+      "description": "A curated twitter account with daily suggestion about Kotlin."
+      "homepage": "https://twitter.com/dailykotlin",
+      "tags": ["twitter"]
+    },{
+      "title": "Talking Kotlin",
+      "category": "newsletter",
+      "description": "A curated podcast about Kotlin language."
+      "homepage": "http://talkingkotlin.com",
+      "tags": ["podcast"]
+    }
+
+
+
+
+  ]
+}
