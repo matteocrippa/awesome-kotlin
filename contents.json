@@ -267,7 +267,15 @@
       "description": "NoSQL database query and access library.",
       "homepage": "https://github.com/cheptsov/kotlin-nosql",
       "tags": ["nosql", "database"]
+    },{
+      "title": "Kwery",
+      "category": "sql",
+      "description": "SQL library over JDBC.",
+      "homepage": "https://github.com/andrewoma/kwery",
+      "tags": ["sql", "database"]
     }
+
+
 
 
 
