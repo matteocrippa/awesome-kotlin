@@ -105,6 +105,12 @@
       "description": "The modelling for success/failure of operations.",
       "homepage": "https://github.com/kittinunf/Result",
       "tags": ["result"]
+    },{
+      "title": "Anko",
+      "category": "utils",
+      "description": "A collection of utils to make Android development faster and easier.",
+      "homepage": "https://github.com/Kotlin/anko",
+      "tags": ["utils", "android"]
     }
 
 
