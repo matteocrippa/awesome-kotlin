@@ -144,6 +144,12 @@
       "description": "An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.",
       "homepage": "https://github.com/JetBrains/kotlin-native",
       "tags": ["kotlin", "native", "ios", "osx", "linux", "windows"]
+    },{
+      "title": "KAndroid",
+      "category": "utils",
+      "description": "Provide extensions and remove boilerplates on Android development.",
+      "homepage": "https://github.com/pawegio/KAndroid",
+      "tags": ["utils", "android"]
     }
 
 
