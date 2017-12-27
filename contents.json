@@ -219,6 +219,12 @@
       "description": "A lightweight SQL library written over JDBC.",
       "homepage": "https://github.com/JetBrains/Exposed",
       "tags": ["sql", "database"]
+    },{
+      "title": "kovert",
+      "category": "web",
+      "description": "A REST (and Web) framework.",
+      "homepage": "https://github.com/kohesive/kovert",
+      "tags": ["rest", "web"]
     }
 
 
