@@ -241,6 +241,12 @@
       "description": "RecyclerView generated via homogeneous and heterogeneous lists effortlessly using an universal adapter logging framework.",
       "homepage": "https://github.com/rahulchowdhury/Mystique",
       "tags": ["log"]
+    },{
+      "title": "NoiseView",
+      "category": "view",
+      "description": "Easily add noise effect on your image.",
+      "homepage": "https://github.com/hypeapps/NoiseView",
+      "tags": ["image", "noise"]
     }
 
 
