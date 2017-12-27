@@ -160,6 +160,12 @@
       "description": "A simpler way to handle shared preferences.",
       "homepage": "https://github.com/chibatching/Kotpref",
       "tags": ["utils", "android", "sharedpreferences"]
+    },{
+      "title": "kotterknife",
+      "category": "view",
+      "description": "View binding made easy.",
+      "homepage": "https://github.com/JakeWharton/kotterknife",
+      "tags": ["utils", "android", "view", "binding"]
     }
 
 
