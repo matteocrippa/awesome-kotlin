@@ -142,7 +142,7 @@
       "title": "Kotlin Native",
       "category": "compiler",
       "description": "An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.",
-      "homepage": "https://github.com/nitrico/LastAdapter",
+      "homepage": "https://github.com/JetBrains/kotlin-native",
       "tags": ["kotlin", "native", "ios", "osx", "linux", "windows"]
     }
 
