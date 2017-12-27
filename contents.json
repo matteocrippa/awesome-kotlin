@@ -56,6 +56,17 @@
     "title": "View",
     "id": "view",
     "parent": "android"
+  },{
+    "title": "Data Management",
+    "id": "datamanagement"
+  },{
+    "title": "JSON",
+    "id": "json",
+    "parent": "datamanagement"
+  },{
+    "title": "GSON",
+    "id": "gson",
+    "parent": "datamanagement"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -170,6 +181,18 @@
       "description": "View binding made easy.",
       "homepage": "https://github.com/JakeWharton/kotterknife",
       "tags": ["utils", "android", "view", "binding"]
+    },{
+      "title": "klaxon",
+      "category": "json",
+      "description": "JSON parser.",
+      "homepage": "https://github.com/cbeust/klaxon",
+      "tags": ["datamodel", "data", "json"]
+    },{
+      "title": "Kotson",
+      "category": "gson",
+      "description": "Simple GSON Parser.",
+      "homepage": "https://github.com/SalomonBrys/Kotson",
+      "tags": ["datamodel", "data", "gson"]
     }
 
 
