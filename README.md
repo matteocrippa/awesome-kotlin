@@ -8,9 +8,9 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 
 
-| Awesome | Linux | Projects | Updated
-| :-: | :-: | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/kotlin%20projects-15-orange.svg) | December 27, 2017
+| Awesome | Projects | Updated
+| :-: | :-: | :-:
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-20-orange.svg) | December 27, 2017
 
 ### Contributing
 
@@ -25,11 +25,16 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Libraries](#lib)
   - [Android](#android)
     - [Adapter](#adapter)
+    - [SharedPreferences](#sharedpreferences)
+    - [Utils](#utils)
+    - [View](#view)
   - [Caching](#caching)
   - [Network](#network)
-  - [Utils](#utils)
   - [Web](#web)
 - [Compiler](#compiler)
+- [Data Management](#datamanagement)
+  - [GSON](#gson)
+  - [JSON](#json)
 
 ## Guides
 *A collection of interesting Kotlin guides.* 
@@ -46,10 +51,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Newsletter about Kotlin.* 
 * [Kotlin Daily](https://twitter.com/dailykotlin) - A curated twitter account with daily suggestion about Kotlin.
 * [Kotlin Weekly](http://www.kotlinweekly.net) - A curated weekly newsletter about the best of Kotlin around the net.
-* [Talking Kotlin](http://talkingkotlin.com) - A curated podcast about Kotlin language.
 
 ## Podcast
 *Podcast about Kotlin.* 
+* [Talking Kotlin](http://talkingkotlin.com) - A curated podcast about Kotlin language.
 
 ## Libraries
 
@@ -63,6 +68,23 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - An adapter and viewholder handler for easier android development.
 
+#### SharedPreferences
+[back to top](#readme) 
+
+* [Kotpref](https://github.com/chibatching/Kotpref) - A simpler way to handle shared preferences.
+
+#### Utils
+[back to top](#readme) 
+
+* [Anko](https://github.com/Kotlin/anko) - A collection of utils to make Android development faster and easier.
+* [KAndroid](https://github.com/pawegio/KAndroid) - Provide extensions and remove boilerplates on Android development.
+* [Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations.
+
+#### View
+[back to top](#readme) 
+
+* [kotterknife](https://github.com/JakeWharton/kotterknife) - View binding made easy.
+
 ### Caching
 [back to top](#readme) 
 
@@ -73,12 +95,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Fuel](https://github.com/kittinunf/Fuel) - A complete network library with routing support.
 
-### Utils
-[back to top](#readme) 
-
-* [Anko](https://github.com/Kotlin/anko) - A collection of utils to make Android development faster and easier.
-* [Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations.
-
 ### Web
 [back to top](#readme) 
 
@@ -86,4 +102,17 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Compiler
 
-* [Kotlin Native](https://github.com/JetBrains/kotlin-native) :penguin: - An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.
+* [Kotlin Native](https://github.com/JetBrains/kotlin-native) - An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.
+
+## Data Management
+
+
+### GSON
+[back to top](#readme) 
+
+* [Kotson](https://github.com/SalomonBrys/Kotson) - Simple GSON Parser.
+
+### JSON
+[back to top](#readme) 
+
+* [klaxon](https://github.com/cbeust/klaxon) - JSON parser.
