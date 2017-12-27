@@ -67,6 +67,14 @@
     "title": "GSON",
     "id": "gson",
     "parent": "datamanagement"
+  },{
+    "title": "Database",
+    "id": "database",
+    "parent": "lib"
+  },{
+    "title": "SQL",
+    "id": "sql",
+    "parent": "database"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -205,6 +213,12 @@
       "description": "Easy shadow handler for view.",
       "homepage": "https://github.com/loopeer/shadow",
       "tags": ["view", "shadow"]
+    },{
+      "title": "Exposed",
+      "category": "sql",
+      "description": "A lightweight SQL library written over JDBC.",
+      "homepage": "https://github.com/JetBrains/Exposed",
+      "tags": ["sql", "database"]
     }
 
 
