@@ -37,6 +37,14 @@
     "title": "Web",
     "id": "web",
     "parent": "lib"
+  },{
+    "title": "Android",
+    "id": "android",
+    "parent": "lib"
+  },{
+    "title": "Adapter",
+    "id": "adapter",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -120,7 +128,13 @@
       "category": "web",
       "description": "A framework for quickly creating web applications.",
       "homepage": "https://github.com/ktorio/ktor",
-      "tags": ["web", "android"]
+      "tags": ["web"]
+    },{
+      "title": "LastAdapter",
+      "category": "adapter",
+      "description": "An adapter and viewholder handler for easier android development.",
+      "homepage": "https://github.com/nitrico/LastAdapter",
+      "tags": ["adapter", "android", "viewholder"]
     }
 
 
