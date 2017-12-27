@@ -83,6 +83,10 @@
     "title": "Analytics",
     "id": "analytics",
     "parent": "lib"
+  },{
+    "title": "NoSQL",
+    "id": "nosql",
+    "parent": "database"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -257,6 +261,12 @@
       "description": "Google Analytics tiny framework.",
       "homepage": "https://github.com/programmerr47/ganalytics",
       "tags": ["analytics", "google"]
+    },{
+      "title": "kotlin-nosql",
+      "category": "nosql",
+      "description": "NoSQL database query and access library.",
+      "homepage": "https://github.com/cheptsov/kotlin-nosql",
+      "tags": ["nosql", "database"]
     }
 
 
