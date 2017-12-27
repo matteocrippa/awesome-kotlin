@@ -193,6 +193,12 @@
       "description": "Simple GSON Parser.",
       "homepage": "https://github.com/SalomonBrys/Kotson",
       "tags": ["datamodel", "data", "gson"]
+    },{
+      "title": "kara",
+      "category": "web",
+      "description": "A tiny web framework for JVM.",
+      "homepage": "https://github.com/TinyMission/kara",
+      "tags": ["web"]
     }
 
 
