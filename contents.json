@@ -79,6 +79,10 @@
     "title": "Logging",
     "id": "logging",
     "parent": "lib"
+  },{
+    "title": "Analytics",
+    "id": "analytics",
+    "parent": "lib"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -247,6 +251,12 @@
       "description": "Easily add noise effect on your image.",
       "homepage": "https://github.com/hypeapps/NoiseView",
       "tags": ["image", "noise"]
+    },{
+      "title": "ganalytics",
+      "category": "analytics",
+      "description": "Google Analytics tiny framework.",
+      "homepage": "https://github.com/programmerr47/ganalytics",
+      "tags": ["analytics", "google"]
     }
 
 
