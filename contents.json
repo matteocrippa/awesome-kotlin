@@ -32,7 +32,7 @@
   },{
     "title": "Utils",
     "id": "utils",
-    "parent": "lib"
+    "parent": "android"
   },{
     "title": "Web",
     "id": "web",
