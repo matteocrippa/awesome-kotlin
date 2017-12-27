@@ -18,6 +18,17 @@
     "title": "Podcast",
     "id": "podcast",
     "description": "Podcast about Kotlin."
+  },{
+    "title": "Libraries",
+    "id": "lib"
+  },{
+    "title": "Network",
+    "id": "network",
+    "parent": "lib"
+  },{
+    "title": "Caching",
+    "id": "caching",
+    "parent": "lib"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -63,15 +74,27 @@
     },{
       "title": "Kotlin Daily",
       "category": "newsletter",
-      "description": "A curated twitter account with daily suggestion about Kotlin."
+      "description": "A curated twitter account with daily suggestion about Kotlin.",
       "homepage": "https://twitter.com/dailykotlin",
       "tags": ["twitter"]
     },{
       "title": "Talking Kotlin",
       "category": "newsletter",
-      "description": "A curated podcast about Kotlin language."
+      "description": "A curated podcast about Kotlin language.",
       "homepage": "http://talkingkotlin.com",
       "tags": ["podcast"]
+    },{
+      "title": "Fuel",
+      "category": "network",
+      "description": "A complete network library with routing support.",
+      "homepage": "https://github.com/kittinunf/Fuel",
+      "tags": ["network", "http", "routing"]
+    },{
+      "title": "Fuse",
+      "category": "caching",
+      "description": "A disk and memory caching lib.",
+      "homepage": "https://github.com/kittinunf/Fuse",
+      "tags": ["cache", "disk", "memory"]
     }
 
 
