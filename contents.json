@@ -199,6 +199,12 @@
       "description": "A tiny web framework for JVM.",
       "homepage": "https://github.com/TinyMission/kara",
       "tags": ["web"]
+    },{
+      "title": "shadow",
+      "category": "view",
+      "description": "Easy shadow handler for view.",
+      "homepage": "https://github.com/loopeer/shadow",
+      "tags": ["view", "shadow"]
     }
 
 
