@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-20-orange.svg) | December 27, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-30-orange.svg) | December 27, 2017
 
 ### Contributing
 
@@ -23,12 +23,17 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Newsletter](#newsletter)
 - [Podcast](#podcast)
 - [Libraries](#lib)
+  - [Analytics](#analytics)
   - [Android](#android)
     - [Adapter](#adapter)
     - [SharedPreferences](#sharedpreferences)
     - [Utils](#utils)
     - [View](#view)
   - [Caching](#caching)
+  - [Database](#database)
+    - [NoSQL](#nosql)
+    - [SQL](#sql)
+  - [Logging](#logging)
   - [Network](#network)
   - [Web](#web)
 - [Compiler](#compiler)
@@ -59,6 +64,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Libraries
 
 
+### Analytics
+[back to top](#readme) 
+
+* [ganalytics](https://github.com/programmerr47/ganalytics) - Google Analytics tiny framework.
+
 ### Android
 [back to top](#readme) 
 
@@ -67,6 +77,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - An adapter and viewholder handler for easier android development.
+* [Mystique](https://github.com/rahulchowdhury/Mystique) - RecyclerView generated via homogeneous and heterogeneous lists effortlessly using an universal adapter logging framework.
 
 #### SharedPreferences
 [back to top](#readme) 
@@ -84,11 +95,33 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - View binding made easy.
+* [NoiseView](https://github.com/hypeapps/NoiseView) - Easily add noise effect on your image.
+* [shadow](https://github.com/loopeer/shadow) - Easy shadow handler for view.
 
 ### Caching
 [back to top](#readme) 
 
 * [Fuse](https://github.com/kittinunf/Fuse) - A disk and memory caching lib.
+
+### Database
+[back to top](#readme) 
+
+
+#### NoSQL
+[back to top](#readme) 
+
+* [kotlin-nosql](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library.
+
+#### SQL
+[back to top](#readme) 
+
+* [Exposed](https://github.com/JetBrains/Exposed) - A lightweight SQL library written over JDBC.
+* [Kwery](https://github.com/andrewoma/kwery) - SQL library over JDBC.
+
+### Logging
+[back to top](#readme) 
+
+* [kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework.
 
 ### Network
 [back to top](#readme) 
@@ -98,6 +131,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Web
 [back to top](#readme) 
 
+* [kara](https://github.com/TinyMission/kara) - A tiny web framework for JVM.
+* [kovert](https://github.com/kohesive/kovert) - A REST (and Web) framework.
 * [ktor](https://github.com/ktorio/ktor) - A framework for quickly creating web applications.
 
 ## Compiler
