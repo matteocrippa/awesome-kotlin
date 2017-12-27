@@ -29,6 +29,10 @@
     "title": "Caching",
     "id": "caching",
     "parent": "lib"
+  },{
+    "title": "Utils",
+    "id": "utils",
+    "parent": "lib"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -95,7 +99,15 @@
       "description": "A disk and memory caching lib.",
       "homepage": "https://github.com/kittinunf/Fuse",
       "tags": ["cache", "disk", "memory"]
+    },{
+      "title": "Result",
+      "category": "utils",
+      "description": "The modelling for success/failure of operations.",
+      "homepage": "https://github.com/kittinunf/Result",
+      "tags": ["result"]
     }
+
+
 
 
 
