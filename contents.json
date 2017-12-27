@@ -75,6 +75,10 @@
     "title": "SQL",
     "id": "sql",
     "parent": "database"
+  },{
+    "title": "Logging",
+    "id": "logging",
+    "parent": "lib"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -225,6 +229,12 @@
       "description": "A REST (and Web) framework.",
       "homepage": "https://github.com/kohesive/kovert",
       "tags": ["rest", "web"]
+    },{
+      "title": "kotlin-logging",
+      "category": "logging",
+      "description": "Lightweight logging framework.",
+      "homepage": "https://github.com/MicroUtils/kotlin-logging",
+      "tags": ["log"]
     }
 
 
