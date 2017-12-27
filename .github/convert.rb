@@ -8,7 +8,6 @@ end
 
 def output_linux(tags)
   return '' if tags.nil?
-  return ':penguin: ' if tags.include? 'linux'
   ''
 end
 
@@ -97,9 +96,8 @@ def output_table(ios_app_link, num_projects)
   date = DateTime.now
   date_display = date.strftime "%B %d, %Y"
 
-  o = "| Awesome | Linux | Projects | Updated\n| :-: | :-: | :-: | :-: | :-:\n"
+  o = "| Awesome | Projects | Updated\n| :-: | :-: | :-:\n"
   o << '[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
-  o << ' :penguin: | '
   o << "![](https://img.shields.io/badge/kotlin%20projects-#{num_projects}-orange.svg) | "
   o << date_display
 
