@@ -52,6 +52,10 @@
     "title": "SharedPreferences",
     "id": "sharedpreferences",
     "parent": "android"
+  },{
+    "title": "View",
+    "id": "view",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
