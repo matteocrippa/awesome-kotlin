@@ -48,6 +48,10 @@
   },{
     "title": "Compiler",
     "id": "compiler"
+  },{
+    "title": "SharedPreferences",
+    "id": "sharedpreferences",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -150,6 +154,12 @@
       "description": "Provide extensions and remove boilerplates on Android development.",
       "homepage": "https://github.com/pawegio/KAndroid",
       "tags": ["utils", "android"]
+    },{
+      "title": "Kotpref",
+      "category": "sharedpreferences",
+      "description": "A simpler way to handle shared preferences.",
+      "homepage": "https://github.com/chibatching/Kotpref",
+      "tags": ["utils", "android", "sharedpreferences"]
     }
 
 
