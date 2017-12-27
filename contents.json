@@ -235,6 +235,12 @@
       "description": "Lightweight logging framework.",
       "homepage": "https://github.com/MicroUtils/kotlin-logging",
       "tags": ["log"]
+    },{
+      "title": "Mystique",
+      "category": "adapter",
+      "description": "RecyclerView generated via homogeneous and heterogeneous lists effortlessly using an universal adapter logging framework.",
+      "homepage": "https://github.com/rahulchowdhury/Mystique",
+      "tags": ["log"]
     }
 
 
