@@ -33,6 +33,10 @@
     "title": "Utils",
     "id": "utils",
     "parent": "lib"
+  },{
+    "title": "Web",
+    "id": "web",
+    "parent": "lib"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -111,7 +115,14 @@
       "description": "A collection of utils to make Android development faster and easier.",
       "homepage": "https://github.com/Kotlin/anko",
       "tags": ["utils", "android"]
+    },{
+      "title": "ktor",
+      "category": "web",
+      "description": "A framework for quickly creating web applications.",
+      "homepage": "https://github.com/ktorio/ktor",
+      "tags": ["web", "android"]
     }
+
 
 
 
