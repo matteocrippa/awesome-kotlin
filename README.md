@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-30-orange.svg) | December 27, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-41-orange.svg) | December 28, 2017
 
 ### Contributing
 
@@ -18,14 +18,19 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Contents
 
-- [Guides](#guides)
+- [Guide](#guide)
 - [Community](#community)
 - [Newsletter](#newsletter)
 - [Podcast](#podcast)
 - [Libraries](#lib)
   - [Analytics](#analytics)
   - [Android](#android)
+    - [Activity](#activity)
     - [Adapter](#adapter)
+    - [Button](#button)
+    - [Image](#image)
+    - [Map](#map)
+    - [Permission](#permission)
     - [SharedPreferences](#sharedpreferences)
     - [Utils](#utils)
     - [View](#view)
@@ -41,8 +46,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [GSON](#gson)
   - [JSON](#json)
 
-## Guides
+## Guide
 *A collection of interesting Kotlin guides.* 
+* [From Java to Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - Cheat Sheet For Java to Kotlin.
 * [Kotlin Guide](https://kotlin.guide) - An interesting guide to approach Kotlin by Thorsten Schleinzer.
 * [Official Kotlin](http://kotlinlang.org) - The official Kotlin website with plenty resources to learn this language.
 
@@ -73,15 +79,42 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 
+#### Activity
+[back to top](#readme) 
+
+* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Easy way to start the Activities with arguments.
+
 #### Adapter
 [back to top](#readme) 
 
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - An adapter and viewholder handler for easier android development.
 * [Mystique](https://github.com/rahulchowdhury/Mystique) - RecyclerView generated via homogeneous and heterogeneous lists effortlessly using an universal adapter logging framework.
 
+#### Button
+[back to top](#readme) 
+
+* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - A simple stepper touch button.
+
+#### Image
+[back to top](#readme) 
+
+* [Clay](https://github.com/line/clay) - Simple image trimming.
+
+#### Map
+[back to top](#readme) 
+
+* [MapMe](https://github.com/TradeMe/MapMe) - A modern adapter approach for maps, supporting Google Maps and Mapbox.
+
+#### Permission
+[back to top](#readme) 
+
+* [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Provides a simple annotation-based API to handle runtime permissions.
+
 #### SharedPreferences
 [back to top](#readme) 
 
+* [Fiberglass](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library with delegated properties.
+* [KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - Easy way to use Android shared preferences.
 * [Kotpref](https://github.com/chibatching/Kotpref) - A simpler way to handle shared preferences.
 
 #### Utils
@@ -94,6 +127,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### View
 [back to top](#readme) 
 
+* [bubble](https://github.com/TouK/bubble) - Easy way check current view orientation.
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) - Particle system for your views.
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - View binding made easy.
 * [NoiseView](https://github.com/hypeapps/NoiseView) - Easily add noise effect on your image.
 * [shadow](https://github.com/loopeer/shadow) - Easy shadow handler for view.
@@ -117,6 +152,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Exposed](https://github.com/JetBrains/Exposed) - A lightweight SQL library written over JDBC.
 * [Kwery](https://github.com/andrewoma/kwery) - SQL library over JDBC.
+* [Requery](https://github.com/requery/requery) - A modern SQL based query & persistence.
 
 ### Logging
 [back to top](#readme) 
