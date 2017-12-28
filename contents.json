@@ -58,7 +58,8 @@
     "parent": "android"
   },{
     "title": "Data Management",
-    "id": "datamanagement"
+    "id": "datamanagement",
+    "parent": "lib"
   },{
     "title": "JSON",
     "id": "json",
