@@ -91,6 +91,10 @@
     "title": "Permission",
     "id": "permission",
     "parent": "android"
+  },{
+    "title": "Map",
+    "id": "map",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -295,6 +299,12 @@
       "description": "A modern SQL based query & persistence.",
       "homepage": "https://github.com/requery/requery",
       "tags": ["sql","android"]
+    },{
+      "title": "MapMe",
+      "category": "map",
+      "description": "A modern adapter approach for maps, supporting Google Maps and Mapbox.",
+      "homepage": "https://github.com/TradeMe/MapMe",
+      "tags": ["map","adapter","google-maps","mapbox"]
     }
 
 
