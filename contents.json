@@ -103,6 +103,10 @@
     "title": "Button",
     "id": "button",
     "parent": "android"
+  },{
+    "title": "Activity",
+    "id": "activity",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -349,7 +353,15 @@
       "description": "Easy way to use Android shared preferences.",
       "homepage": "https://github.com/MarcinMoskala/KotlinPreferences",
       "tags": ["sharedpreferences"]
+    },{
+      "title": "ActivityStarter",
+      "category": "activity",
+      "description": "Easy way to start the Activities with arguments.",
+      "homepage": "https://github.com/MarcinMoskala/ActivityStarter",
+      "tags": ["activity"]
     }
+
+
 
 
 
