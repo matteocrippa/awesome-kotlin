@@ -342,12 +342,6 @@
       "homepage": "https://github.com/mathcamp/fiberglass",
       "tags": ["sharedpreferences"]
     },{
-      "title": "Kotpref",
-      "category": "sharedpreferences",
-      "description": "An Android shared preferences delegation library.",
-      "homepage": "https://github.com/chibatching/Kotpref",
-      "tags": ["sharedpreferences"]
-    },{
       "title": "KotlinPreferences",
       "category": "sharedpreferences",
       "description": "Easy way to use Android shared preferences.",
