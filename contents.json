@@ -359,7 +359,15 @@
       "description": "Easy way to start the Activities with arguments.",
       "homepage": "https://github.com/MarcinMoskala/ActivityStarter",
       "tags": ["activity"]
+    },{
+      "title": "bubble",
+      "category": "view",
+      "description": "Easy way check current view orientation.",
+      "homepage": "https://github.com/TouK/bubble",
+      "tags": ["view", "orientation"]
     }
+
+
 
 
 
