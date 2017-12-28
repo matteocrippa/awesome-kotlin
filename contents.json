@@ -315,6 +315,12 @@
       "description": "Simple image trimming.",
       "homepage": "https://github.com/line/clay",
       "tags": ["image","editing","trim"]
+    },{
+      "title": "Konfetti",
+      "category": "view",
+      "description": "Particle system for your views.",
+      "homepage": "https://github.com/DanielMartinus/Konfetti",
+      "tags": ["view","particle","particle-system"]
     }
 
 
