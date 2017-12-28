@@ -87,6 +87,10 @@
     "title": "NoSQL",
     "id": "nosql",
     "parent": "database"
+  },{
+    "title": "Permission",
+    "id": "permission",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -273,6 +277,12 @@
       "description": "SQL library over JDBC.",
       "homepage": "https://github.com/andrewoma/kwery",
       "tags": ["sql", "database"]
+    },{
+      "title": "Permission Dispatcher",
+      "category": "permission",
+      "description": "Provides a simple annotation-based API to handle runtime permissions.",
+      "homepage": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+      "tags": ["permission"]
     }
 
 
