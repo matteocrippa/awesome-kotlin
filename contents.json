@@ -95,6 +95,10 @@
     "title": "Map",
     "id": "map",
     "parent": "android"
+  },{
+    "title": "Image",
+    "id": "image",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -305,6 +309,12 @@
       "description": "A modern adapter approach for maps, supporting Google Maps and Mapbox.",
       "homepage": "https://github.com/TradeMe/MapMe",
       "tags": ["map","adapter","google-maps","mapbox"]
+    },{
+      "title": "Clay",
+      "category": "image",
+      "description": "Simple image trimming.",
+      "homepage": "https://github.com/line/clay",
+      "tags": ["image","editing","trim"]
     }
 
 
