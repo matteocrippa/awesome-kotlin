@@ -422,6 +422,18 @@
       "description": "Multiprocess sharedpreferences.",
       "homepage": "https://github.com/Bilibili/xpref",
       "tags": ["sharedprefeferences"]
+    },{
+      "title": "Raincoat",
+      "category": "analytics",
+      "description": "Analytics abstraction layer.",
+      "homepage": "https://github.com/matteocrippa/Raincoat",
+      "tags": ["analytics", "google-analytics", "mixpanel", "localytics"]
+    },{
+      "title": "Parrot",
+      "category": "image",
+      "description": "ImageView extension for async loading.",
+      "homepage": "https://github.com/matteocrippa/Parrot",
+      "tags": ["imageview", "async-loader", "extension"]
     }
 
 
