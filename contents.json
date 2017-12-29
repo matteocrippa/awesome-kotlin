@@ -108,6 +108,10 @@
     "title": "Activity",
     "id": "activity",
     "parent": "android"
+  },{
+    "title": "Gallery",
+    "id": "gallery",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -366,6 +370,12 @@
       "description": "A collection of examples of kotlin usage by JetBrains.",
       "homepage": "https://github.com/JetBrains/kotlin-examples",
       "tags": ["snippets", "example"]
+    },{
+      "title": "Simple-Gallery",
+      "category": "gallery",
+      "description": "A gallery for viewing photos and videos.",
+      "homepage": "https://github.com/SimpleMobileTools/Simple-Gallery",
+      "tags": ["image", "video", "gallery"]
     }
 
 
