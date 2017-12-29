@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-41-orange.svg) | December 28, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-50-orange.svg) | December 29, 2017
 
 ### Contributing
 
@@ -28,7 +28,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Activity](#activity)
     - [Adapter](#adapter)
     - [Button](#button)
+    - [Gallery](#gallery)
     - [Image](#image)
+    - [Layout](#layout)
     - [Map](#map)
     - [Permission](#permission)
     - [SharedPreferences](#sharedpreferences)
@@ -49,6 +51,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Guide
 *A collection of interesting Kotlin guides.* 
 * [From Java to Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - Cheat Sheet For Java to Kotlin.
+* [Kotlin examples](https://github.com/JetBrains/kotlin-examples) - A collection of examples of kotlin usage by JetBrains.
 * [Kotlin Guide](https://kotlin.guide) - An interesting guide to approach Kotlin by Thorsten Schleinzer.
 * [Official Kotlin](http://kotlinlang.org) - The official Kotlin website with plenty resources to learn this language.
 
@@ -74,6 +77,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [ganalytics](https://github.com/programmerr47/ganalytics) - Google Analytics tiny framework.
+* [Raincoat](https://github.com/matteocrippa/Raincoat) - Analytics abstraction layer.
 
 ### Android
 [back to top](#readme) 
@@ -95,10 +99,21 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - A simple stepper touch button.
 
+#### Gallery
+[back to top](#readme) 
+
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos.
+
 #### Image
 [back to top](#readme) 
 
 * [Clay](https://github.com/line/clay) - Simple image trimming.
+* [Parrot](https://github.com/matteocrippa/Parrot) - ImageView extension for async loading.
+
+#### Layout
+[back to top](#readme) 
+
+* [Flexbox](https://github.com/google/flexbox-layout) - Flexbox layout by Google.
 
 #### Map
 [back to top](#readme) 
@@ -116,6 +131,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Fiberglass](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library with delegated properties.
 * [KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - Easy way to use Android shared preferences.
 * [Kotpref](https://github.com/chibatching/Kotpref) - A simpler way to handle shared preferences.
+* [xpref](https://github.com/Bilibili/xpref) - Multiprocess sharedpreferences.
 
 #### Utils
 [back to top](#readme) 
