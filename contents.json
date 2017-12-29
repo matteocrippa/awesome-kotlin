@@ -120,6 +120,10 @@
     "title": "Api Wrapper",
     "id": "api",
     "parent": "libs"
+  },{
+    "title": "Math",
+    "id": "math",
+    "parent": "libs"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -396,6 +400,12 @@
       "description": "Reddit Api wrapper.",
       "homepage": "https://github.com/mattbdean/JRAW",
       "tags": ["reddit", "wrapper", "api"]
+    },{
+      "title": "kotlin-math",
+      "category": "math",
+      "description": "Set APIs to make graphics math easier to write.",
+      "homepage": "https://github.com/romainguy/kotlin-math",
+      "tags": ["math"]
     }
 
 
