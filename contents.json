@@ -416,6 +416,12 @@
       "description": "Mocking library.",
       "homepage": "https://github.com/oleksiyp/mockk",
       "tags": ["mock"]
+    },{
+      "title": "xpref",
+      "category": "sharedpreferences",
+      "description": "Multiprocess sharedpreferences.",
+      "homepage": "https://github.com/Bilibili/xpref",
+      "tags": ["sharedprefeferences"]
     }
 
 
