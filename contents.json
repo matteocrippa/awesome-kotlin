@@ -116,6 +116,10 @@
     "title": "Layout",
     "id": "layout",
     "parent": "android"
+  },{
+    "title": "Api Wrapper",
+    "id": "api",
+    "parent": "libs"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -386,6 +390,12 @@
       "description": "Flexbox layout by Google.",
       "homepage": "https://github.com/google/flexbox-layout",
       "tags": ["layout", "liquid"]
+    },{
+      "title": "JRAW",
+      "category": "api",
+      "description": "Reddit Api wrapper.",
+      "homepage": "https://github.com/mattbdean/JRAW",
+      "tags": ["reddit", "wrapper", "api"]
     }
 
 
