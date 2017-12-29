@@ -124,6 +124,10 @@
     "title": "Math",
     "id": "math",
     "parent": "libs"
+  },{
+    "title": "Mocking",
+    "id": "mock",
+    "parent": "libs"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -406,6 +410,12 @@
       "description": "Set APIs to make graphics math easier to write.",
       "homepage": "https://github.com/romainguy/kotlin-math",
       "tags": ["math"]
+    },{
+      "title": "mockk",
+      "category": "mock",
+      "description": "Mocking library.",
+      "homepage": "https://github.com/oleksiyp/mockk",
+      "tags": ["mock"]
     }
 
 
