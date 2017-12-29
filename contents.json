@@ -360,7 +360,15 @@
       "description": "Easy way check current view orientation.",
       "homepage": "https://github.com/TouK/bubble",
       "tags": ["view", "orientation"]
+    },{
+      "title": "Kotlin examples",
+      "category": "guide",
+      "description": "A collection of examples of kotlin usage by JetBrains.",
+      "homepage": "https://github.com/JetBrains/kotlin-examples",
+      "tags": ["snippets", "example"]
     }
+
+
 
 
 
