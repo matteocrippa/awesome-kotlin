@@ -38,13 +38,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Database](#database)
     - [NoSQL](#nosql)
     - [SQL](#sql)
+  - [Data Management](#datamanagement)
+    - [GSON](#gson)
+    - [JSON](#json)
   - [Logging](#logging)
   - [Network](#network)
   - [Web](#web)
 - [Compiler](#compiler)
-- [Data Management](#datamanagement)
-  - [GSON](#gson)
-  - [JSON](#json)
 
 ## Guide
 *A collection of interesting Kotlin guides.* 
@@ -154,6 +154,20 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Kwery](https://github.com/andrewoma/kwery) - SQL library over JDBC.
 * [Requery](https://github.com/requery/requery) - A modern SQL based query & persistence.
 
+### Data Management
+[back to top](#readme) 
+
+
+#### GSON
+[back to top](#readme) 
+
+* [Kotson](https://github.com/SalomonBrys/Kotson) - Simple GSON Parser.
+
+#### JSON
+[back to top](#readme) 
+
+* [klaxon](https://github.com/cbeust/klaxon) - JSON parser.
+
 ### Logging
 [back to top](#readme) 
 
@@ -174,16 +188,3 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Compiler
 
 * [Kotlin Native](https://github.com/JetBrains/kotlin-native) - An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain.
-
-## Data Management
-
-
-### GSON
-[back to top](#readme) 
-
-* [Kotson](https://github.com/SalomonBrys/Kotson) - Simple GSON Parser.
-
-### JSON
-[back to top](#readme) 
-
-* [klaxon](https://github.com/cbeust/klaxon) - JSON parser.
