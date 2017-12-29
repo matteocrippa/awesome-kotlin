@@ -112,6 +112,10 @@
     "title": "Gallery",
     "id": "gallery",
     "parent": "android"
+  },{
+    "title": "Layout",
+    "id": "layout",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -376,6 +380,12 @@
       "description": "A gallery for viewing photos and videos.",
       "homepage": "https://github.com/SimpleMobileTools/Simple-Gallery",
       "tags": ["image", "video", "gallery"]
+    },{
+      "title": "Flexbox",
+      "category": "layout",
+      "description": "Flexbox layout by Google.",
+      "homepage": "https://github.com/google/flexbox-layout",
+      "tags": ["layout", "liquid"]
     }
 
 
