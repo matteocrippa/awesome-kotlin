@@ -132,6 +132,10 @@
     "title": "Code Analysis",
     "id": "code-analysis",
     "parent": "libs"
+  },{
+    "title": "Recycler View",
+    "id": "recycler-view",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -456,6 +460,12 @@
       "description": "Static code analysis.",
       "homepage": "https://github.com/arturbosch/detekt",
       "tags": ["static", "code", "analysis"]
+    },{
+      "title": "NestedRecyclerView",
+      "category": "recycler-view",
+      "description": "Improve the scroll angle when 2 recyclers views are nested.",
+      "homepage": "https://github.com/MalikDE/NestedRecyclerView",
+      "tags": ["nested", "recycle", "view"]
     }
 
 
