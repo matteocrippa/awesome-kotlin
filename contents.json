@@ -128,6 +128,10 @@
     "title": "Mocking",
     "id": "mock",
     "parent": "libs"
+  },{
+    "title": "Code Analysis",
+    "id": "code-analysis",
+    "parent": "libs"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -446,6 +450,12 @@
       "description": "A simple Servlet based web framework.",
       "homepage": "https://github.com/ahwnz/kaha",
       "tags": ["web", "framework"]
+    },{
+      "title": "detekt",
+      "category": "code-analysis",
+      "description": "Static code analysis.",
+      "homepage": "https://github.com/arturbosch/detekt",
+      "tags": ["static", "code", "analysis"]
     }
 
 
