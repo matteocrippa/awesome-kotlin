@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-50-orange.svg) | December 29, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-54-orange.svg) | December 30, 2017
 
 ### Contributing
 
@@ -33,6 +33,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Layout](#layout)
     - [Map](#map)
     - [Permission](#permission)
+    - [Recycler View](#recycler-view)
     - [SharedPreferences](#sharedpreferences)
     - [Utils](#utils)
     - [View](#view)
@@ -125,6 +126,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Provides a simple annotation-based API to handle runtime permissions.
 
+#### Recycler View
+[back to top](#readme) 
+
+* [NestedRecyclerView](https://github.com/MalikDE/NestedRecyclerView) - Improve the scroll angle when 2 recyclers views are nested.
+
 #### SharedPreferences
 [back to top](#readme) 
 
@@ -144,6 +150,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [bubble](https://github.com/TouK/bubble) - Easy way check current view orientation.
+* [DotsLoader](https://github.com/agrawalsuneet/DotsLoader) - Android dots loader.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Particle system for your views.
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - View binding made easy.
 * [NoiseView](https://github.com/hypeapps/NoiseView) - Easily add noise effect on your image.
@@ -197,6 +204,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Web
 [back to top](#readme) 
 
+* [kaha](https://github.com/ahwnz/kaha) - A simple Servlet based web framework.
 * [kara](https://github.com/TinyMission/kara) - A tiny web framework for JVM.
 * [kovert](https://github.com/kohesive/kovert) - A REST (and Web) framework.
 * [ktor](https://github.com/ktorio/ktor) - A framework for quickly creating web applications.
