@@ -434,6 +434,12 @@
       "description": "ImageView extension for async loading.",
       "homepage": "https://github.com/matteocrippa/Parrot",
       "tags": ["imageview", "async-loader", "extension"]
+    },{
+      "title": "DotsLoader",
+      "category": "view",
+      "description": "Android dots loader.",
+      "homepage": "https://github.com/agrawalsuneet/DotsLoader",
+      "tags": ["view", "loader"]
     }
 
 
