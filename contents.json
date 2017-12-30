@@ -440,6 +440,12 @@
       "description": "Android dots loader.",
       "homepage": "https://github.com/agrawalsuneet/DotsLoader",
       "tags": ["view", "loader"]
+    },{
+      "title": "kaha",
+      "category": "web",
+      "description": "Android dots loader.",
+      "homepage": "https://github.com/ahwnz/kaha",
+      "tags": ["web", "framework"]
     }
 
 
