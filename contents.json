@@ -443,7 +443,7 @@
     },{
       "title": "kaha",
       "category": "web",
-      "description": "Android dots loader.",
+      "description": "A simple Servlet based web framework.",
       "homepage": "https://github.com/ahwnz/kaha",
       "tags": ["web", "framework"]
     }
