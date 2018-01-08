@@ -466,6 +466,12 @@
       "description": "Improve the scroll angle when 2 recyclers views are nested.",
       "homepage": "https://github.com/MalikDE/NestedRecyclerView",
       "tags": ["nested", "recycle", "view"]
+    },{
+      "title": "StickyTimeLine",
+      "category": "view",
+      "description": "Timeline view for Android.",
+      "homepage": "https://github.com/sangcomz/StickyTimeLine",
+      "tags": ["timeline", "view"]
     }
 
 
