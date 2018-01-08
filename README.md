@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-54-orange.svg) | December 30, 2017
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-56-orange.svg) | January 08, 2018
 
 ### Contributing
 
@@ -150,11 +150,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [bubble](https://github.com/TouK/bubble) - Easy way check current view orientation.
+* [Colored Time Selector](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector for Android.
 * [DotsLoader](https://github.com/agrawalsuneet/DotsLoader) - Android dots loader.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Particle system for your views.
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - View binding made easy.
 * [NoiseView](https://github.com/hypeapps/NoiseView) - Easily add noise effect on your image.
 * [shadow](https://github.com/loopeer/shadow) - Easy shadow handler for view.
+* [StickyTimeLine](https://github.com/sangcomz/StickyTimeLine) - Timeline view for Android.
 
 ### Caching
 [back to top](#readme) 
