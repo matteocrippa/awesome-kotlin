@@ -472,6 +472,12 @@
       "description": "Timeline view for Android.",
       "homepage": "https://github.com/sangcomz/StickyTimeLine",
       "tags": ["timeline", "view"]
+    },{
+      "title": "Colored Time Selector",
+      "category": "view",
+      "description": "A smart colored time selector for Android.",
+      "homepage": "https://github.com/ehsunshine/colored-time-selector",
+      "tags": ["selector", "view"]
     }
 
 
