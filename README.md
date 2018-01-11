@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-56-orange.svg) | January 08, 2018
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-58-orange.svg) | January 11, 2018
 
 ### Contributing
 
@@ -28,6 +28,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Activity](#activity)
     - [Adapter](#adapter)
     - [Button](#button)
+    - [Camera](#camera)
     - [Gallery](#gallery)
     - [Image](#image)
     - [Layout](#layout)
@@ -37,6 +38,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [SharedPreferences](#sharedpreferences)
     - [Utils](#utils)
     - [View](#view)
+      - [Pager](#pager)
   - [Caching](#caching)
   - [Database](#database)
     - [NoSQL](#nosql)
@@ -100,6 +102,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - A simple stepper touch button.
 
+#### Camera
+[back to top](#readme) 
+
+* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) - Making Camera for Android more friendly.
+
 #### Gallery
 [back to top](#readme) 
 
@@ -157,6 +164,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NoiseView](https://github.com/hypeapps/NoiseView) - Easily add noise effect on your image.
 * [shadow](https://github.com/loopeer/shadow) - Easy shadow handler for view.
 * [StickyTimeLine](https://github.com/sangcomz/StickyTimeLine) - Timeline view for Android.
+
+##### Pager
+[back to top](#readme) 
+
+* [Android Indefinite Pager Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) - Making Camera for Android more friendly.
 
 ### Caching
 [back to top](#readme) 
