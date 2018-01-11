@@ -136,6 +136,10 @@
     "title": "Recycler View",
     "id": "recycler-view",
     "parent": "android"
+  },{
+    "title": "Camera",
+    "id": "camera",
+    "parent": "android"
   }],
   "projects": [ {
       "title": "Official Kotlin",
@@ -478,6 +482,12 @@
       "description": "A smart colored time selector for Android.",
       "homepage": "https://github.com/ehsunshine/colored-time-selector",
       "tags": ["selector", "view"]
+    },{
+      "title": "Fotoapparat",
+      "category": "camera",
+      "description": "Making Camera for Android more friendly.",
+      "homepage": "https://github.com/Fotoapparat/Fotoapparat",
+      "tags": ["photo", "camera"]
     }
 
 
