@@ -140,6 +140,10 @@
     "title": "Camera",
     "id": "camera",
     "parent": "android"
+  },{
+    "title": "Pager",
+    "id": "pager",
+    "parent": "view"
   }],
   "projects": [ {
       "title": "Official Kotlin",
