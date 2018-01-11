@@ -488,6 +488,12 @@
       "description": "Making Camera for Android more friendly.",
       "homepage": "https://github.com/Fotoapparat/Fotoapparat",
       "tags": ["photo", "camera"]
+    },{
+      "title": "Android Indefinite Pager Indicator",
+      "category": "pager",
+      "description": "Making Camera for Android more friendly.",
+      "homepage": "https://github.com/rbro112/Android-Indefinite-Pager-Indicator",
+      "tags": ["indicator", "pager", "recycler-view", "adapter"]
     }
 
 
