@@ -504,6 +504,12 @@
       "description": "Chat UI library for Android.",
       "homepage": "https://github.com/bassaer/ChatMessageView",
       "tags": ["ui", "view", "chat", "message"]
+    },{
+      "title": "Multi Selection",
+      "category": "ui",
+      "description": "Multiselection Solution for Android.",
+      "homepage": "https://github.com/Yalantis/Multi-Selection",
+      "tags": ["selection", "view", "multi"]
     }
 
   ]
