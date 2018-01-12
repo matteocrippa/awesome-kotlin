@@ -510,7 +510,14 @@
       "description": "Multiselection Solution for Android.",
       "homepage": "https://github.com/Yalantis/Multi-Selection",
       "tags": ["selection", "view", "multi"]
+    },{
+      "title": "Android Snowfall",
+      "category": "ui",
+      "description": "Fully customizable implementation of Snowfall View on Android.",
+      "homepage": "https://github.com/JetradarMobile/android-snowfall",
+      "tags": ["ui", "snow", "particles"]
     }
+
 
   ]
 }
