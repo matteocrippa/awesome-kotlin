@@ -500,19 +500,19 @@
       "tags": ["indicator", "pager", "recycler-view", "adapter"]
     },{
       "title": "ChatMessageView",
-      "category": "ui",
+      "category": "view",
       "description": "Chat UI library for Android.",
       "homepage": "https://github.com/bassaer/ChatMessageView",
       "tags": ["ui", "view", "chat", "message"]
     },{
       "title": "Multi Selection",
-      "category": "ui",
+      "category": "view",
       "description": "Multiselection Solution for Android.",
       "homepage": "https://github.com/Yalantis/Multi-Selection",
       "tags": ["selection", "view", "multi"]
     },{
       "title": "Android Snowfall",
-      "category": "ui",
+      "category": "view",
       "description": "Fully customizable implementation of Snowfall View on Android.",
       "homepage": "https://github.com/JetradarMobile/android-snowfall",
       "tags": ["ui", "snow", "particles"]
