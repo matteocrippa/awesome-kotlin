@@ -498,23 +498,13 @@
       "description": "Making Camera for Android more friendly.",
       "homepage": "https://github.com/rbro112/Android-Indefinite-Pager-Indicator",
       "tags": ["indicator", "pager", "recycler-view", "adapter"]
+    },{
+      "title": "ChatMessageView",
+      "category": "ui",
+      "description": "Chat UI library for Android.",
+      "homepage": "https://github.com/bassaer/ChatMessageView",
+      "tags": ["ui", "view", "chat", "message"]
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   ]
 }
