@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-58-orange.svg) | January 11, 2018
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-61-orange.svg) | January 12, 2018
 
 ### Contributing
 
@@ -156,11 +156,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### View
 [back to top](#readme) 
 
+* [Android Snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of Snowfall View on Android.
 * [bubble](https://github.com/TouK/bubble) - Easy way check current view orientation.
+* [ChatMessageView](https://github.com/bassaer/ChatMessageView) - Chat UI library for Android.
 * [Colored Time Selector](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector for Android.
 * [DotsLoader](https://github.com/agrawalsuneet/DotsLoader) - Android dots loader.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Particle system for your views.
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - View binding made easy.
+* [Multi Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android.
 * [NoiseView](https://github.com/hypeapps/NoiseView) - Easily add noise effect on your image.
 * [shadow](https://github.com/loopeer/shadow) - Easy shadow handler for view.
 * [StickyTimeLine](https://github.com/sangcomz/StickyTimeLine) - Timeline view for Android.
