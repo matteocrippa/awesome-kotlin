@@ -516,6 +516,12 @@
       "description": "Fully customizable implementation of Snowfall View on Android.",
       "homepage": "https://github.com/JetradarMobile/android-snowfall",
       "tags": ["ui", "snow", "particles"]
+    },{
+      "title": "arrow",
+      "category": "utils",
+      "description": "Functional companion to Kotlin's Standard Library.",
+      "homepage": "https://github.com/arrow-kt/arrow",
+      "tags": ["companion", "Functional"]
     }
 
 
