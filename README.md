@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-61-orange.svg) | January 12, 2018
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/kotlin%20projects-62-orange.svg) | January 15, 2018
 
 ### Contributing
 
@@ -150,6 +150,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Anko](https://github.com/Kotlin/anko) - A collection of utils to make Android development faster and easier.
+* [arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library.
 * [KAndroid](https://github.com/pawegio/KAndroid) - Provide extensions and remove boilerplates on Android development.
 * [Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations.
 
