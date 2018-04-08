@@ -57,6 +57,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Kotlin examples](https://github.com/JetBrains/kotlin-examples) - A collection of examples of kotlin usage by JetBrains.
 * [Kotlin Guide](https://kotlin.guide) - An interesting guide to approach Kotlin by Thorsten Schleinzer.
 * [Official Kotlin](http://kotlinlang.org) - The official Kotlin website with plenty resources to learn this language.
+* [Recommended Kotlin Resources](https://hackr.io/tutorials/learn-kotlin) - Programming community curated resources for learning Kotlin.
 
 ## Community
 *Community where talk about Kotlin and share informations.* 
