@@ -153,6 +153,13 @@
       "tags": ["kotlin", "guide", "REPL"]
     },
     {
+      "title": "Java Time Fun",
+      "category": "lib",
+      "description": "java.time Kotlin extension functions library.",
+      "homepage": "https://github.com/seljabali/java-time-fun",
+      "tags": ["kotlin", "dates"]
+    },
+    {
       "title": "Kotlin on Reddit",
       "category": "community",
       "description": "The official Kotlin Reddit channel.",
